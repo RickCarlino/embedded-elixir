@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedded Elixir</title>
+    <link>http://embedded-elixir.com/</link>
+    <description>Recent content on Embedded Elixir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://embedded-elixir.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using ASDF-vm</title>
+      <link>http://embedded-elixir.com/post/2017-05-23-using-asdf-vm/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/post/2017-05-23-using-asdf-vm/</guid>
+      <description>&lt;p&gt;Nerves usually pushes the bleeding edge of Elixir, which means we sometimes
+sometimes hear about problems in our Nerves Slack channel that can be solved by
+updating to the latest version of Elixir and OTP. Now, there are built-in options in most operating systems to do this, such as
+&lt;code&gt;brew&lt;/code&gt;, &lt;code&gt;apt-get&lt;/code&gt;, &lt;code&gt;pacman&lt;/code&gt; etc, and they all work with varying levels of success. ASDF-vm is an alternate version manager that allows easy installation and switching between different versions of various packages.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Poncho Projects</title>
+      <link>http://embedded-elixir.com/post/2017-05-19-poncho-projects/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/post/2017-05-19-poncho-projects/</guid>
+      <description>&lt;p&gt;Recently in the Nerves community Slack channel, we have been talking about how &lt;a href=&#34;http://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-apps.html#umbrella-projects&#34;&gt;umbrella projects&lt;/a&gt; can be problematic for a Nerves-based project.
+As a result, we have coined the tongue-in-cheek term &amp;ldquo;poncho projects&amp;rdquo; to refer to plain-old-Elixir projects with applications that use plain-old-dependencies.
+This is different than using an umbrella project, which come with some standard conveniences and interdependencies between applications in the project.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Firmware Updates</title>
+      <link>http://embedded-elixir.com/post/2017-05-04-firmware-update/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/post/2017-05-04-firmware-update/</guid>
+      <description>Firmware updates are an important aspect to all parts of the device lifecycle, not just production. In development, they can save you time not burning SD cards by using mechanisms like pushing firmware bundles over the network. Network updates can also pave the way to automate executing canary tests using real hardware. Firmware updates are important to these stages because they are the only way to modify the contents of the read only filesystem.</description>
+    </item>
+    
+    <item>
+      <title>Official Raspberry Pi Zero Support and new RPi Systems</title>
+      <link>http://embedded-elixir.com/post/2017-04-18-nerves_system_rpi/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/post/2017-04-18-nerves_system_rpi/</guid>
+      <description>It&amp;rsquo;s official. Tim Mecklem&amp;rsquo;s Raspberry Pi Zero/Zero W system is now part of the Nerves Project. Here&amp;rsquo;s why we&amp;rsquo;re so excited about this system:
+It only requires a MicroUSB cable, MicroSD card, and an RPi Zero for development. The MicroUSB cable provides power and access to the RPi&amp;rsquo;s IEx prompt. If you have a Zero W or a RedBear IoT pHAT, your programs have easy access to WiFi too.
+To use this, see the nerves_system_rpi0 project.</description>
+    </item>
+    
+    <item>
+      <title>Roundup of Embedded and IoT Presentations in March</title>
+      <link>http://embedded-elixir.com/post/2017-04-06-embedded-talks-in-march/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/post/2017-04-06-embedded-talks-in-march/</guid>
+      <description>&lt;p&gt;March was quite a month for talks starting with
+&lt;a href=&#34;http://elixirdaze.com/&#34;&gt;ElixirDaze&lt;/a&gt; in Florida, going to &lt;a href=&#34;http://www.erlangelixir.com/&#34;&gt;Erlang and Elixir Factory&lt;/a&gt; in
+San Francisco, and ending at the &lt;a href=&#34;https://www.meetup.com/ruby-lviv/&#34;&gt;Lviv Ruby Meetup&lt;/a&gt; in Ukraine.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a list of embedded Elixir and Erlang related ones that we found:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Upgrading to Nerves 0.5</title>
+      <link>http://embedded-elixir.com/post/2017-03-30-upgrading-to-nerves-0-5/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/post/2017-03-30-upgrading-to-nerves-0-5/</guid>
+      <description>In early March, the Nerves Project published its v0.5.0 release, marking another big step forward in usability and completeness of the platform. In this post, I&amp;rsquo;d like to describe the major changes to be aware of as you upgrade existing projects or create new ones using Nerves 0.5.
+Refreshed Docs and Examples If you&amp;rsquo;re new to Nerves or you&amp;rsquo;ve been using it for a long time and just never got around to it, you may want to check out the Getting Started guides and documentation available on Hexdocs and the example projects available on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

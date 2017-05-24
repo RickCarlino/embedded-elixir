@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Embedded Elixir</title>
+    <link>http://embedded-elixir.com/tags/</link>
+    <description>Recent content in Tags on Embedded Elixir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://embedded-elixir.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bootloader</title>
+      <link>http://embedded-elixir.com/tags/bootloader/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/bootloader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>http://embedded-elixir.com/tags/conferences/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fwup</title>
+      <link>http://embedded-elixir.com/tags/fwup/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/fwup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nerves</title>
+      <link>http://embedded-elixir.com/tags/nerves/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/nerves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poncho</title>
+      <link>http://embedded-elixir.com/tags/poncho/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/poncho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberrypi</title>
+      <link>http://embedded-elixir.com/tags/raspberrypi/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/raspberrypi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactor</title>
+      <link>http://embedded-elixir.com/tags/reactor/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/reactor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>http://embedded-elixir.com/tags/release/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://embedded-elixir.com/tags/talks/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umbrella</title>
+      <link>http://embedded-elixir.com/tags/umbrella/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://embedded-elixir.com/tags/umbrella/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://embedded-elixir.com/post/2017-05-23-using-asdf-vm/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/post/2017-05-19-poncho-projects/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/post/2017-05-04-firmware-update/</loc>
+    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/post/2017-04-18-nerves_system_rpi/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/post/2017-04-06-embedded-talks-in-march/</loc>
+    <lastmod>2017-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/post/2017-03-30-upgrading-to-nerves-0-5/</loc>
+    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/bootloader/</loc>
+    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/conferences/</loc>
+    <lastmod>2017-04-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/fwup/</loc>
+    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/nerves/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/poncho/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/post/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/raspberrypi/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/reactor/</loc>
+    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/release/</loc>
+    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/</loc>
+    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/talks/</loc>
+    <lastmod>2017-04-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://embedded-elixir.com/tags/umbrella/</loc>
+    <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
